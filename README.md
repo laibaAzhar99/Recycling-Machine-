@@ -1,0 +1,2 @@
+
+This use case diagram for a Recycling Machine Application shows two main actors: the Customer and the Operator. The Customer uses the system to Return Item, request and print receipt, and the system then calculate deposit and record items to generate transaction details. The Operator manages the machine by monitoring machine, aggregating daily data, resolving malfunctions, and updating the system, all of which often connect to generating reports or updating deposit values.
